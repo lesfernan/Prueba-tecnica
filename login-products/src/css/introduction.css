@@ -1,0 +1,22 @@
+.title .text {
+  width: 100%;
+}
+.button {
+  width: 120px;
+  height: 50px;
+  background-color: rgba(229, 169, 3, 0.9);
+  border: none;
+  border-radius: 10px;
+  transition: all 0.5s;
+}
+.button:hover {
+  background-color: rgba(3, 154, 229, 0.9);
+  color: white;
+}
+a {
+  text-decoration: none;
+}
+.button > p {
+  margin: 0;
+  font-weight: 600;
+}

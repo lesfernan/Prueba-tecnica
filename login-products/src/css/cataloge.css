@@ -1,0 +1,23 @@
+.card {
+  width: 300px;
+}
+.edit {
+  position: absolute;
+  margin: 10px;
+  top: 0;
+  right: 0;
+  color: rgba(3, 154, 229, 0.567);
+  cursor: pointer;
+}
+.delete {
+  cursor: pointer;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 10px;
+  color: rgba(255, 0, 0, 0.507);
+}
+.catalogo {
+  position: relative;
+  z-index: 2;
+}

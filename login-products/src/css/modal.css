@@ -1,0 +1,9 @@
+.add-product input,
+.add-product select {
+  width: 60%;
+  height: 40px;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgba(162, 159, 159, 0.266);
+}
